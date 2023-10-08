@@ -22,12 +22,6 @@
 
 
 
-
-
-
-
-
-
 #    0123456789...
 # s = "Salam, Python!"
 
@@ -40,10 +34,6 @@
 # print(s[7:])
 
 # print(s[-7:-1])
-
-
-
-
 
 
 
@@ -62,11 +52,6 @@
 
 
 
-
-
-
-
-
 # a = "Vusal"
 #
 # b = "Huseynov"
@@ -75,12 +60,6 @@
 #
 # # print(a,b)
 # print(c)
-
-
-
-
-
-
 
 
 # s = "Python"
@@ -92,10 +71,6 @@
 # print(c)
 
 
-
-
-
-
 # ad = "Vusal"
 # soyad = "Huseynov"
 #
@@ -103,8 +78,6 @@
 # # print("Salam, {} {}!".format(ad,soyad))
 #
 # print(F"Salam, {ad} {soyad}!")
-
-
 
 
 cumle = "Python eyni zamanda \"Piton\" olaraq da adlandirilir."
