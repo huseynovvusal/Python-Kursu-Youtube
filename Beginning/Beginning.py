@@ -6,5 +6,5 @@
 
 # print("Vusal","Huseynov","Python",end=" ")
 
-# print("Salam",end=" ")
-# print("Salam")
+print("Salam",end=" ")
+print("Salam")
