@@ -1,0 +1,11 @@
+Ssenari: Havaya görə nə geyinmək lazımdır?
+
+Əgər yağış yağırsa:
+    - Siz yağmurluq geyinəcəksiniz.
+Əgər hava günəşlidirsə:
+    - Siz gün eynəyi taxacaqsınız.
+Əgər qar yağırsa:
+    - Siz isti palto geyinəcəksiniz.
+Başqa cür hava şəraiti varsa:
+    - Adi geyim geyinəcəksiniz.
+
