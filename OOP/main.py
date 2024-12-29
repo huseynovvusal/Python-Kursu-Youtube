@@ -26,4 +26,3 @@ car1.stop()
 # print(id(car2))
 
 # print(car1.brand,car1.model, car1.year, car1.color)
-
