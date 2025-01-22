@@ -1,0 +1,10 @@
+Hansı Python dəyişən adı doğrudur?|1number|number_1|number-1|number_1
+Python-un standart çıxış funksiyası hansıdır?|input()|print()|write()|print()
+Python-da hansı məlumat tipi ədədləri təsvir edir?|int|str|list|int
+Python-da şərhlər hansı simvolla başlayır?|faiz işarəsi|kəskin işarə|iki xətt|kəskin işarə
+Python-da siyahılar necə yaradılır?|mötərizə|kvadrat mötərizə|dairəvi mötərizə|kvadrat mötərizə
+Python-da dövriyyə operatoru hansıdır?|if|while|try|while
+len funksiyası nə üçün istifadə olunur?|dəyişənin tipini təyin etmək üçün|siyahının uzunluğunu tapmaq üçün|məlumatları silmək üçün|siyahının uzunluğunu tapmaq üçün
+Python-da True və False hansı məlumat tipinə aiddir?|int|str|bool|bool
+x 10 və y 3 olduqda x faiz y nə qaytarır?|1|2|3|1
+Python hansı dil kateqoriyasına aiddir?|yığılan|tərcümə edilən|maşın dili|tərcümə edilən
