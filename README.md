@@ -1,8 +1,19 @@
-[![🐍 Python Proqramlaşdırma Dərsləri](./Python0.jpg)](https://youtu.be/xze9OZjd0DY?si=IEnRPvPhtpVo6OjN)
+[![🐍 Python Proqramlaşdırma Dərsləri](./thumbnail.jpg)](https://youtu.be/xze9OZjd0DY?si=IEnRPvPhtpVo6OjN)
 
-# 🐍 Yeni Başlayanlar üçün Python Dərsləri
+# 🐍 Sıfırdan Zirvəyə: Python Proqramlaşdırma Kursu
 
-Bu playlist Python proqramlaşdırma dili ilə başlamaq və bu güclü dili öyrənmək
-üçün ən yaxşı yoldur. Bu playlist, Python əsaslarından başlayaraq, kompleks
-konseptlərə və proqramlaşdırma sahəsində mövzulara genişlənən resurslar təqdim
-edir.
+🚀 Proqramlaşdırmaya başlamaq istəyirsən? Bu kursla arzularını gerçəkləşdir! 📚 Tamamilə Azərbaycan dilində olan bu kurs Python proqramlaşdırma dilini sıfırdan öyrədir və səni mütəxəssis səviyyəsinə qədər aparır. Sadəcə bir videoda 10+ saatlıq dərslərlə yeni biliklər qazan, layihələr yarat, və proqramçı karyerana güclü başlanğıc et! 💻
+
+### 📌 Kursda Nələr Öyrənəcəksiniz?
+
+- Python-un əsasları 🐍
+- Data strukturlar: List, Tuple, Set, Dictionary 📂
+- Dövrlər və Şərtlər 🔄
+- Funksiyalar və Lambda istifadəsi 🔧
+- OOP (Object-Oriented Programming) və irsiyyət 📦
+- Exception handling və File Handling 📜
+- Proqramlaşdırma texnikaları və praktik nümunələr! 💡
+
+### 🎯 Kurs Kimlər Üçündür?
+
+Həm yeni başlayanlar, həm də biliklərini təkmilləşdirmək istəyənlər üçün! ✅
