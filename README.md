@@ -1,4 +1,4 @@
-[![🐍 Python Proqramlaşdırma Dərsləri](./thumbnail.jpg)](https://youtu.be/xze9OZjd0DY?si=IEnRPvPhtpVo6OjN)
+[![🐍 Python Proqramlaşdırma Dərsləri](./thumbnail.jpg)](https://youtu.be/BYUEqGB5TcQ)
 
 # 🐍 Sıfırdan Zirvəyə: Python Proqramlaşdırma Kursu
 
